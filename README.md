@@ -1,6 +1,6 @@
 # V-Panel 🔊
 
-![Logo](vpanellogo-playstore.png)
+![Logo](logo.png)
 
 **V-Panel** is an elegant floating volume control service for Android. It allows you to manage your device's audio with a stylish on-screen overlay, eliminating the need for physical buttons.
 
