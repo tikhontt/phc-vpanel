@@ -19,5 +19,16 @@ To build the project yourself:
 2. Open it in **Android Studio**.
 3. Go to **Build > Build Bundle(s) / APK(s) > Build APK(s)**.
 
+## 📖 How to Use
+Once installed, follow these steps to get V-Panel running:
+
+1. **Grant Permissions**: On the first launch, the app will ask for "Display over other apps" (Overlay) permission. This is required to show the volume panel over your screen.
+2. **Start the Service**: Tap the **"Start Service"** button in the app. You will see a small floating icon or handle on the edge of your screen.
+3. **Control Volume**: 
+    * **Tap** the floating icon to expand the volume slider.
+    * **Slide** up or down to adjust the volume level.
+    * **Tap outside** or wait a few seconds for the panel to collapse automatically.
+4. **Customization**: Use the app's main screen to adjust the position or sensitivity of the floating trigger.
+
 ## 📄 License
 This project is licensed under the MIT License.
